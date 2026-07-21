@@ -12095,79 +12095,6 @@
     <tag k="subtype" v="dashed"/>
     <tag k="lane_change" v="yes"/>
   </way>
-  <way id="3286">
-    <nd ref="2541"/>
-    <nd ref="2542"/>
-    <nd ref="2548"/>
-    <nd ref="2550"/>
-    <nd ref="2552"/>
-    <nd ref="2554"/>
-    <nd ref="2556"/>
-    <nd ref="2558"/>
-    <nd ref="2560"/>
-    <nd ref="2562"/>
-    <nd ref="2564"/>
-    <nd ref="2765"/>
-    <nd ref="2758"/>
-    <nd ref="2566"/>
-    <nd ref="2568"/>
-    <nd ref="2577"/>
-    <nd ref="2582"/>
-    <nd ref="2584"/>
-    <nd ref="2586"/>
-    <nd ref="2588"/>
-    <nd ref="2590"/>
-    <nd ref="2592"/>
-    <nd ref="2594"/>
-    <nd ref="2596"/>
-    <nd ref="2598"/>
-    <nd ref="2600"/>
-    <nd ref="2602"/>
-    <nd ref="2604"/>
-    <nd ref="2606"/>
-    <nd ref="2608"/>
-    <nd ref="2610"/>
-    <nd ref="2612"/>
-    <nd ref="2614"/>
-    <nd ref="2616"/>
-    <nd ref="2618"/>
-    <nd ref="2620"/>
-    <nd ref="2622"/>
-    <nd ref="2624"/>
-    <nd ref="2626"/>
-    <nd ref="2628"/>
-    <nd ref="2630"/>
-    <nd ref="2632"/>
-    <nd ref="2634"/>
-    <nd ref="2636"/>
-    <nd ref="2638"/>
-    <nd ref="2640"/>
-    <nd ref="2642"/>
-    <nd ref="2644"/>
-    <nd ref="2646"/>
-    <nd ref="2648"/>
-    <nd ref="2650"/>
-    <nd ref="2652"/>
-    <nd ref="2654"/>
-    <nd ref="2656"/>
-    <nd ref="2658"/>
-    <nd ref="2660"/>
-    <nd ref="2662"/>
-    <nd ref="2664"/>
-    <nd ref="2666"/>
-    <nd ref="2668"/>
-    <nd ref="2670"/>
-    <nd ref="2672"/>
-    <nd ref="2674"/>
-    <nd ref="2676"/>
-    <nd ref="2678"/>
-    <nd ref="2682"/>
-    <nd ref="2684"/>
-    <nd ref="2686"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="dashed"/>
-    <tag k="lane_change" v="yes"/>
-  </way>
   <way id="3287">
     <nd ref="2744"/>
     <nd ref="2745"/>
@@ -12356,64 +12283,6 @@
     <tag k="type" v="line_thin"/>
     <tag k="subtype" v="dashed"/>
     <tag k="lane_change" v="yes"/>
-  </way>
-  <way id="3290">
-    <nd ref="2243"/>
-    <nd ref="2244"/>
-    <nd ref="2250"/>
-    <nd ref="2252"/>
-    <nd ref="2254"/>
-    <nd ref="2256"/>
-    <nd ref="2258"/>
-    <nd ref="2260"/>
-    <nd ref="2262"/>
-    <nd ref="2266"/>
-    <nd ref="2268"/>
-    <nd ref="2270"/>
-    <nd ref="2272"/>
-    <nd ref="2274"/>
-    <nd ref="2276"/>
-    <nd ref="2278"/>
-    <nd ref="2280"/>
-    <nd ref="2282"/>
-    <nd ref="2284"/>
-    <nd ref="2286"/>
-    <nd ref="2288"/>
-    <nd ref="2290"/>
-    <nd ref="2292"/>
-    <nd ref="2294"/>
-    <nd ref="2296"/>
-    <nd ref="2298"/>
-    <nd ref="2300"/>
-    <nd ref="2302"/>
-    <nd ref="2304"/>
-    <nd ref="2306"/>
-    <nd ref="2308"/>
-    <nd ref="2310"/>
-    <nd ref="2312"/>
-    <nd ref="2317"/>
-    <nd ref="2319"/>
-    <nd ref="2321"/>
-    <nd ref="2323"/>
-    <nd ref="2325"/>
-    <nd ref="2327"/>
-    <nd ref="2329"/>
-    <nd ref="2331"/>
-    <nd ref="2333"/>
-    <nd ref="2335"/>
-    <nd ref="2337"/>
-    <nd ref="2339"/>
-    <nd ref="2341"/>
-    <nd ref="2343"/>
-    <nd ref="2345"/>
-    <nd ref="2347"/>
-    <nd ref="2352"/>
-    <nd ref="2354"/>
-    <nd ref="2356"/>
-    <nd ref="2358"/>
-    <nd ref="2360"/>
-    <tag k="type" v="line_thin"/>
-    <tag k="subtype" v="solid"/>
   </way>
   <way id="3291">
     <nd ref="2498"/>
@@ -13131,7 +13000,7 @@
     <tag k="one_way" v="no"/>
   </relation>
   <relation id="2530">
-    <member type="way" role="left" ref="3290"/>
+    <member type="way" role="left" ref="3289"/>
     <member type="way" role="right" ref="3291"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
@@ -13149,7 +13018,7 @@
     <tag k="one_way" v="yes"/>
   </relation>
   <relation id="2757">
-    <member type="way" role="left" ref="3286"/>
+    <member type="way" role="left" ref="3281"/>
     <member type="way" role="right" ref="3287"/>
     <tag k="type" v="lanelet"/>
     <tag k="subtype" v="road"/>
